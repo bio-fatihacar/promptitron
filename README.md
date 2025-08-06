@@ -3,6 +3,9 @@
 > **Türkiye'nin En Kapsamlı Yapay Zeka Destekli Eğitim Platformu**  
 > Modern AI teknolojileriyle güçlendirilmiş, çoklu arayüz destekli eğitim sistemi
 
+## Client kodlarını yüklerken sorun yaşadık aşağıdaki linkten client kodlarına ulabilirsiniz
+> https://github.com/zamazincode/btk-hackathon
+
 [![Python](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.116+-green.svg)](https://fastapi.tiangolo.com/)
 [![Next.js](https://img.shields.io/badge/Next.js-15.4+-black.svg)](https://nextjs.org/)
